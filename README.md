@@ -5,22 +5,37 @@
 # Jay Braun
 
 
-I’m a computational chemist by training. 
-<
+I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms.
+
 <video autoplay muted loop playsinline width="600">
   <source src="tica_fast2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
-My expertise lies in scientific programming, molecular dynamics simulations, force field development, and data-driven analysis. I use tools like GROMACS, OpenMM, MDAnalysis, and Python-based workflows to investigate biomolecular systems, lipid droplets, and protein-membrane interactions.
+My expertise lies in scientific programming, molecular simulations, data-driven analysis, and effectively communicating complex results through writing and presentations. 
 
-##  About Me
+## 🎓 Background
 
-- PhD in Computational Chemistry  
-- Experienced in high-performance computing, force field optimization, and enhanced sampling  
-- Passionate about bridging physical models with biological insight  
-- Currently seeking roles in industry involving molecular simulation, data science, or scientific computing
+- Ph.D. in computational Chemistry at the University of Utah 
+- B.S. in chemistry from Northern Arizona University
+
+## Core Skills
+
+- Programming & Scripting: Python, Bash, Linux, Slurm, high-performance computing  
+- Data Analysis & Visualization: NumPy, pandas, Seaborn, Matplotlib, Excel  
+- Databases & Querying: SQL (PostgreSQL, SQLite), CSV parsing, data wrangling  
+- Scientific Communication: Technical writing, research presentations, data visualization
+- - Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
+
+## Interests
+
+I'm drawn to roles that integrate data analysis, scientific expertise, and effective communication across disciplines.
+
+- Technical writing and documentation  
+- Data analysis and applied data science  
+- Translating complex results into actionable insights
+- Simulations and modeling
 
 
 ## Documents
