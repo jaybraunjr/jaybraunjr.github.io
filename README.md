@@ -1,5 +1,6 @@
-
-<img src="IMG_3328.jpg" width="140" align="left" alt="Jay Braun">
+<p align="center">
+  <img src="IMG_3328.jpg" width="180" alt="Jay Braun">
+</p>
 
 # Jay Braun
 
