@@ -8,7 +8,7 @@
 I’m a computational chemist by training. 
 <
 <video autoplay muted loop playsinline width="600">
-  <source src="tica_fast.mp4" type="video/mp4">
+  <source src="tica_fast2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -20,7 +20,22 @@ My expertise lies in scientific programming, molecular dynamics simulations, for
 - PhD in Computational Chemistry  
 - Experienced in high-performance computing, force field optimization, and enhanced sampling  
 - Passionate about bridging physical models with biological insight  
-- Currently seeking roles in industry involving molecular simulation, data science, or scientific computing  
+- Currently seeking roles in industry involving molecular simulation, data science, or scientific computing
+
+
+## Documents
+
+Here are some materials from my recent work:
+
+### Resume
+<iframe src="drude.pdf" width="100%" height="600px"></iframe>
+
+### Research Poster
+<iframe src="tld1.pdf" width="100%" height="600px"></iframe>
+
+### Presentation Slides
+<iframe src="LC.pdf" width="100%" height="600px"></iframe>
+
 
 ## Projects
 
