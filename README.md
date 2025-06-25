@@ -6,18 +6,16 @@
 
 
 I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms.
-
 <video autoplay muted loop playsinline width="600">
   <source src="tica_fast2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
 My expertise lies in scientific programming, molecular simulations, data-driven analysis, and effectively communicating complex results through writing and presentations. 
 
-## 🎓 Background
+## Educational Background
 
-- Ph.D. in computational Chemistry at the University of Utah 
+- Ph.D. in computational chemistry from the University of Utah 
 - B.S. in chemistry from Northern Arizona University
 
 ## Core Skills
@@ -39,17 +37,16 @@ I'm drawn to roles that integrate data analysis, scientific expertise, and effec
 
 
 ## Documents
-
 Here are some materials from my recent work:
 
-### Resume
+### Methods-based paper currently under review
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
-### Research Poster
+### Colaborative paper with experimentalists
 <iframe src="tld1.pdf" width="100%" height="600px"></iframe>
 
-### Presentation Slides
-<iframe src="LC.pdf" width="100%" height="600px"></iframe>
+### Other papers
+<iframe src="lc.pdf" width="100%" height="600px"></iframe>
 
 
 ## Projects
