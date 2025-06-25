@@ -1,4 +1,6 @@
-![Jay Braun](IMG_3328.jpg)
+
+<img src="IMG_3328.jpg" width="140" align="left" alt="Jay Braun">
+
 # Jay Braun
 
 
