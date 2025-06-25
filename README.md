@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="IMG_3328.jpg" width="180" alt="Jay Braun">
 </p>
 
