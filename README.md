@@ -6,6 +6,12 @@
 
 
 I’m a computational chemist by training. 
+<
+<video autoplay muted loop playsinline width="600">
+  <source src="tica_fast.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 My expertise lies in scientific programming, molecular dynamics simulations, force field development, and data-driven analysis. I use tools like GROMACS, OpenMM, MDAnalysis, and Python-based workflows to investigate biomolecular systems, lipid droplets, and protein-membrane interactions.
 
