@@ -32,7 +32,7 @@ I specialize in scientific programming, molecular simulations, and data-driven a
 
 - Programming & Scripting: Python, Bash, Linux, Slurm, high-performance computing  
 - Data Analysis & Visualization: NumPy, pandas, Seaborn, Matplotlib, Excel  
-- Databases & Querying: SQL (PostgreSQL, SQLite), CSV parsing, data wrangling  
+- Databases & Querying: SQL, CSV parsing, data wrangling  
 - Scientific Communication: Technical writing, research presentations, data visualization
 - Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
 
@@ -49,7 +49,8 @@ Here are some materials from my recent work. This includes published manuscripts
 ### Methods-based paper currently under review
 This project I created polarizable forcefield parameters for a lipid (triacylglycerol) and tested it against other forcefields. 
 #### Sample Code  
-<a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
+Code for converting forcefield parameters, using lightweight GUI:
+<a href="https://github.com/jaybraunjr/gro_to_Drude" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
   color: white;
@@ -62,7 +63,20 @@ This project I created polarizable forcefield parameters for a lipid (triacylgly
 ">
   🔗 View Code on GitHub
 </a>
-
+Code for some of the flexible analysis that was used in paper:
+<a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
+  display: inline-block;
+  background-color: #24292e;
+  color: white;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 8px;
+">
+  🔗 View code on GitHub
+</a>
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
 ### Colaborative paper with experimentalists
@@ -72,31 +86,9 @@ This project I created polarizable forcefield parameters for a lipid (triacylgly
 <iframe src="lc.pdf" width="100%" height="600px"></iframe>
 
 
-## Projects
 
-### Lipid Droplet Targeting by MLX
-Uncovered how MLX family proteins selectively associate with TG-rich LDs via simulation and MSMs.
 
-- GROMACS & OpenMM simulation pipeline  
-- WHAM + umbrella sampling for free energy analysis  
-- MSM construction with pyEMMA  
-- [Publication link or preprint]  
 
-###  Drude Force Field for TGs
-Refined polarizable models (Drude2023) for TG-rich environments, improving interfacial accuracy.
-
-- Benchmarked Drude vs CHARMM36  
-- RDF, density, and surface potential validation  
-- [GitHub repo link or DOI]  
-
-### Surface Defect Analysis
-Custom Python analysis tools to identify lipid packing defects and correlate with protein binding events.
-
-- MDAnalysis and custom vectorized logic  
-- Visualization via Seaborn and Matplotlib  
-- [Repo link]
-
-## Resume
 
 You can view or download my resume here:  
 [Download Resume (PDF)](link-to-resume.pdf)
@@ -104,7 +96,7 @@ You can view or download my resume here:
 ## 📫 Contact
 
 - Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jaybraunjr)  
 - GitHub: [@jaybraunjr](https://github.com/jaybraunjr)
 
 ---
