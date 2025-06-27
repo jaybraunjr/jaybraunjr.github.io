@@ -77,6 +77,23 @@ Code for some of the flexible analysis that was used in paper:
 #### The manuscript:
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
+### Protein interaction with membranes
+</a>
+This us to determine hwo proteins interact with membrane through packing defects:
+<a href="https://github.com/jaybraunjr/PD" target="_blank" style="
+  display: inline-block;
+  background-color: #24292e;
+  color: white;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 8px;
+">
+  🔗 View code on GitHub
+</a>
+
 ### Colaborative paper with experimentalists
 This prjoject allowed us to use data obtained from our experimental collaborators, and create useful simulations for them.
 <iframe src="tld1.pdf" width="100%" height="600px"></iframe>
