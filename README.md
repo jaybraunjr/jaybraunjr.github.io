@@ -1,3 +1,13 @@
+<style>
+body {
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+}
+</style>
+
+
 <p align="left">
   <img src="IMG_3328.jpg" width="180" alt="Jay Braun">
 </p>
@@ -32,7 +42,6 @@ I specialize in scientific programming, molecular simulations, and data-driven a
 - Data analysis and applied data science  
 - Translating complex results into actionable insights
 - Simulations and modeling
-
 
 ## Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
