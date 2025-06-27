@@ -5,13 +5,13 @@
 # Jay Braun
 
 
-I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms.
+I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms (as seen in the movie below).
 <video autoplay muted loop playsinline width="600">
   <source src="tica_fast2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-My expertise lies in scientific programming, molecular simulations, data-driven analysis, and effectively communicating complex results through writing and presentations. 
+I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm looking to transition into data science, analytics, or technical writing, bringing a strong scientific background and problem-solving mindset.
 
 ## Educational Background
 
@@ -24,11 +24,9 @@ My expertise lies in scientific programming, molecular simulations, data-driven 
 - Data Analysis & Visualization: NumPy, pandas, Seaborn, Matplotlib, Excel  
 - Databases & Querying: SQL (PostgreSQL, SQLite), CSV parsing, data wrangling  
 - Scientific Communication: Technical writing, research presentations, data visualization
-- - Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
+- Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
 
-## Interests
-
-I'm drawn to roles that integrate data analysis, scientific expertise, and effective communication across disciplines.
+## Career Interests
 
 - Technical writing and documentation  
 - Data analysis and applied data science  
@@ -36,7 +34,7 @@ I'm drawn to roles that integrate data analysis, scientific expertise, and effec
 - Simulations and modeling
 
 
-## Documents
+## Project and Documents
 Here are some materials from my recent work:
 
 ### Methods-based paper currently under review
