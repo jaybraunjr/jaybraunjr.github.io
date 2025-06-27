@@ -49,7 +49,19 @@ Here are some materials from my recent work. This includes published manuscripts
 ### Methods-based paper currently under review
 This project I created polarizable forcefield parameters for a lipid (triacylglycerol) and tested it against other forcefields. 
 #### Sample Code  
-View the full code on [GitHub](https://github.com/jaybraunjr/surface_properties).
+<a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
+  display: inline-block;
+  background-color: #24292e;
+  color: white;
+  padding: 10px 16px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 8px;
+">
+  🔗 View Code on GitHub
+</a>
 
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
