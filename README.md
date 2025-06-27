@@ -35,9 +35,13 @@ I specialize in scientific programming, molecular simulations, and data-driven a
 
 
 ## Project and Documents
-Here are some materials from my recent work:
+Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 
 ### Methods-based paper currently under review
+This project I created polarizable forcefield parameters for a lipid (triacylglycerol) and tested it against other forcefields. 
+#### Sample Code  
+View the full code on [GitHub](https://github.com/jaybraunjr/surface_properties).
+
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
 ### Colaborative paper with experimentalists
