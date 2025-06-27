@@ -24,12 +24,10 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm looking to transition into data science, analytics, or technical writing, bringing a strong scientific background and problem-solving mindset.
 
 ## Educational Background
-
 - Ph.D. in computational chemistry from the University of Utah 
 - B.S. in chemistry from Northern Arizona University
 
 ## Core Skills
-
 - Programming & Scripting: Python, Bash, Linux, Slurm, high-performance computing  
 - Data Analysis & Visualization: NumPy, pandas, Seaborn, Matplotlib, Excel  
 - Databases & Querying: SQL, CSV parsing, data wrangling  
@@ -37,13 +35,12 @@ I specialize in scientific programming, molecular simulations, and data-driven a
 - Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
 
 ## Career Interests
-
 - Technical writing and documentation  
 - Data analysis and applied data science  
 - Translating complex results into actionable insights
 - Simulations and modeling
 
-## Project and Documents
+# Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 
 ### Methods-based paper currently under review
@@ -77,9 +74,11 @@ Code for some of the flexible analysis that was used in paper:
 ">
   🔗 View code on GitHub
 </a>
+#### The manuscript:
 <iframe src="drude.pdf" width="100%" height="600px"></iframe>
 
 ### Colaborative paper with experimentalists
+This prjoject allowed us to use data obtained from our experimental collaborators, and create useful simulations for them.
 <iframe src="tld1.pdf" width="100%" height="600px"></iframe>
 
 ### Other papers
