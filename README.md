@@ -24,8 +24,8 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm looking to transition into data science, analytics, or technical writing, bringing a strong scientific background and problem-solving mindset.
 
 ## Educational Background
-- Ph.D. in computational chemistry from the University of Utah 
-- B.S. in chemistry from Northern Arizona University
+- Ph.D. in Computational Chemistry from the University of Utah 
+- B.S. in Chemistry from Northern Arizona University
 
 ## Core Skills
 - Programming & Scripting: Python, Bash, Linux, Slurm, high-performance computing  
@@ -43,7 +43,7 @@ I specialize in scientific programming, molecular simulations, and data-driven a
 # Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 
-### Methods-based paper currently under review
+### Methods-based paper provisionally accepted to JCTC with minor revisions 
 This project I created polarizable forcefield parameters for a lipid (triacylglycerol) and tested it against other forcefields. 
 #### Sample Code  
 Code for converting forcefield parameters, using lightweight GUI:
@@ -101,13 +101,6 @@ This prjoject allowed us to use data obtained from our experimental collaborator
 ### Other papers
 <iframe src="lc.pdf" width="100%" height="600px"></iframe>
 
-
-
-
-
-
-You can view or download my resume here:  
-[Download Resume (PDF)](link-to-resume.pdf)
 
 ## 📫 Contact
 
