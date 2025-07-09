@@ -42,7 +42,6 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 # Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 
-### Methods-based paper provisionally accepted to JCTC with minor revisions 
 ### [Methods-based paper provisionally accepted to JCTC with minor revisions](methods_paper.md)
 
 
