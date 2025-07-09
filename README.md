@@ -7,16 +7,21 @@ body {
 }
 </style>
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-  <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 120px; border-radius: 50%;">
-  <h1 style="margin: 0;">Jay Braun</h1>
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 2rem; flex-wrap: wrap;">
+  <div style="flex-shrink: 0;">
+    <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 120px; border-radius: 50%;">
+    <h1 style="margin: 0; font-size: 1.8rem;">Jay Braun</h1>
+  </div>
+
+  <video autoplay muted loop playsinline width="400" style="max-width: 100%;">
+    <source src="tica_fast2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
+
 I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms (as seen in the movie below).
-<video autoplay muted loop playsinline width="600">
-  <source src="tica_fast2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm looking to transition into data science, analytics, or technical writing, bringing a strong scientific background and problem-solving mindset.
 
