@@ -42,7 +42,7 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 # Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 
-### [Methods-based paper provisionally accepted to JCTC with minor revisions](metthods_paper.md)
+### [Methods-based paper provisionally accepted to JCTC with minor revisions](metthods_paper)
 
 
 ### Protein interaction with membranes
