@@ -107,6 +107,3 @@ This prjoject allowed us to use data obtained from our experimental collaborator
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/jaybraunjr)  
 - GitHub: [@jaybraunjr](https://github.com/jaybraunjr)
 
----
-
-Thanks for visiting!
