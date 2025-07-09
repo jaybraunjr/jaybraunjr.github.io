@@ -7,9 +7,9 @@ body {
 }
 </style>
 
-<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 2rem; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 50px; margin-bottom: 2rem; flex-wrap: wrap;">
   <div style="flex-shrink: 0;">
-    <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 120px; border-radius: 50%;">
+    <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 150px; border-radius: 50%;">
     <h1 style="margin: 0; font-size: 1.8rem;">Jay Braun</h1>
   </div>
 
@@ -20,27 +20,24 @@ body {
 </div>
 
 
-I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms (as seen in the movie below).
+I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes (as seen in the movie above).
 
+<p style="font-size: 0.90rem;">
+  I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm seeking roles in data science, technical writing, analytics, or as a computational chemist.
+</p>
 
-I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm looking to transition into data science, analytics, or technical writing, bringing a strong scientific background and problem-solving mindset.
 
 ## Educational Background
 - Ph.D. in Computational Chemistry from the University of Utah 
 - B.S. in Chemistry from Northern Arizona University
 
 ## Core Skills
-- Programming & Scripting: Python, Bash, Linux, Slurm, high-performance computing  
+- Programming & Scripting: Python, Bash, Linux, high-performance computing  
 - Data Analysis & Visualization: NumPy, pandas, Seaborn, Matplotlib, Excel  
-- Databases & Querying: SQL, CSV parsing, data wrangling  
+- Databases & Querying: SQL 
 - Scientific Communication: Technical writing, research presentations, data visualization
-- Molecular Simulations: GROMACS, OpenMM, MDAnalysis  
+- Computational chemsitry: GROMACS, OpenMM, MDAnalysis, CHARMM
 
-## Career Interests
-- Technical writing and documentation  
-- Data analysis and applied data science  
-- Translating complex results into actionable insights
-- Simulations and modeling
 
 # Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
