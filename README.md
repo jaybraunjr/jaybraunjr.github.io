@@ -12,8 +12,6 @@ body {
   <h1 style="margin: 0;">Jay Braun</h1>
 </div>
 
-
-
 I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms (as seen in the movie below).
 <video autoplay muted loop playsinline width="600">
   <source src="tica_fast2.mp4" type="video/mp4">
