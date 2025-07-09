@@ -7,12 +7,11 @@ body {
 }
 </style>
 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
+  <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 120px; border-radius: 50%;">
+  <h1 style="margin: 0;">Jay Braun</h1>
+</div>
 
-<p align="left">
-  <img src="IMG_3328.jpg" width="180" alt="Jay Braun">
-</p>
-
-# Jay Braun
 
 
 I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes, focusing on free energy landscapes and binding mechanisms (as seen in the movie below).
