@@ -9,11 +9,11 @@ body {
 
 <div style="display: flex; align-items: center; gap: 50px; margin-bottom: 2rem; flex-wrap: wrap;">
   <div style="flex-shrink: 0;">
-    <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 150px; border-radius: 50%;">
+    <img src="IMG_3328.jpg" alt="Jay Braun" style="width: 170px; border-radius: 50%;">
     <h1 style="margin: 0; font-size: 1.8rem;">Jay Braun</h1>
   </div>
 
-  <video autoplay muted loop playsinline width="400" style="max-width: 100%;">
+  <video autoplay muted loop playsinline width="600" style="max-width: 100%;">
     <source src="tica_fast2.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -25,7 +25,6 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 <p style="font-size: 0.90rem;">
   I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm seeking roles in data science, technical writing, analytics, or as a computational chemist.
 </p>
-
 
 ## Educational Background
 - Ph.D. in Computational Chemistry from the University of Utah 
