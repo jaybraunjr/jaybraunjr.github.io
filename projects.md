@@ -2,20 +2,14 @@
 layout: default
 title: Projects
 ---
-
-# Projects
-
 Here are materials from my recent work, showcasing my analytical skills, coding expertise, and technical writing. Included are sample code and manuscripts from projects involving methods development and collaborations with experimental groups.
 
 
 ##  Methods-Based Paper (provisionally accepted to JCTC)
-
 This project involved creating polarizable forcefield parameters for a lipid (triacylglycerol) and benchmarking them against other forcefields using molecular dynamics simulations.
 
 ### Sample Code
-
 Code for converting forcefield parameters, using a lightweight GUI:
-
 <a href="https://github.com/jaybraunjr/gro_to_Drude" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -31,7 +25,6 @@ Code for converting forcefield parameters, using a lightweight GUI:
 </a>
 
 Code for flexible analysis used in the paper:
-
 <a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -52,9 +45,7 @@ Code for flexible analysis used in the paper:
 ---
 
 ## Protein Interaction with Membranes
-
 This project focused on understanding how proteins interact with biological membranes via packing defects. Using simulations and defect analysis, we mapped membrane regions likely to promote protein binding.
-
 <a href="https://github.com/jaybraunjr/PD" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -72,7 +63,6 @@ This project focused on understanding how proteins interact with biological memb
 ---
 
 ## Collaborative Paper with Experimentalists
-
 This project involved working closely with experimental collaborators to generate simulation data that interpreted and extended lab-based findings. Our work helped validate proposed mechanisms using atomistic modeling.
 
 ### Manuscript
