@@ -38,37 +38,9 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 - Scientific Communication: Technical writing, research presentations, data visualization
 - Computational chemsitry: GROMACS, OpenMM, MDAnalysis, CHARMM
 
-
 # Project and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
-
-### [Methods-based paper provisionally accepted to JCTC with minor revisions](metthods_paper)
-
-
-### Protein interaction with membranes
-</a>
-This us to determine hwo proteins interact with membrane through packing defects:
-<a href="https://github.com/jaybraunjr/PD" target="_blank" style="
-  display: inline-block;
-  background-color: #24292e;
-  color: white;
-  padding: 10px 16px;
-  font-size: 16px;
-  font-weight: 600;
-  border-radius: 6px;
-  text-decoration: none;
-  margin-top: 8px;
-">
-  🔗 View code on GitHub
-</a>
-
-### Colaborative paper with experimentalists
-This prjoject allowed us to use data obtained from our experimental collaborators, and create useful simulations for them.
-<iframe src="tld1.pdf" width="100%" height="600px"></iframe>
-
-### Other papers
-<iframe src="lc.pdf" width="100%" height="600px"></iframe>
-
+[View full project portfolio](projects)
 
 ## 📫 Contact
 
