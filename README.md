@@ -37,7 +37,7 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 - Scientific Communication: Technical writing, research presentations, data visualization
 - Computational chemsitry: GROMACS, OpenMM, MDAnalysis, CHARMM
 
-# Project and Documents
+# Projects and Documents
 Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
 [View full project portfolio](projects)
 
