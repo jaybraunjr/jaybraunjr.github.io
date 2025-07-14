@@ -9,7 +9,7 @@ Here are materials from my recent work, showcasing my analytical skills, coding 
 This project involved creating polarizable forcefield parameters for a lipid (triacylglycerol) and benchmarking them against other forcefields using molecular dynamics simulations.
 
 ### Code used:
-Code for converting forcefield parameters, using a lightweight GUI:
+Converting forcefield parameters, using a lightweight GUI:
 <a href="https://github.com/jaybraunjr/gro_to_Drude" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -23,7 +23,9 @@ Code for converting forcefield parameters, using a lightweight GUI:
 ">
 🔗 View Code on GitHub
 </a>
-Code for flexible analysis used in the paper:
+
+Flexible analysis used in the paper:
+Exploring how proteins can dynamically bind to defects:
 <a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -35,7 +37,7 @@ Code for flexible analysis used in the paper:
   text-decoration: none;
   margin-top: 8px;
 ">
-🔗 View Analysis Code on GitHub
+🔗 View Code on GitHub
 </a>
 
 ### Manuscript
