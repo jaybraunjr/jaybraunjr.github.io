@@ -24,7 +24,6 @@ Converting forcefield parameters, using a lightweight GUI:
 🔗 View Code on GitHub
 </a>
 
-Flexible analysis used in the paper:
 Exploring how proteins can dynamically bind to defects:
 <a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
   display: inline-block;
@@ -49,6 +48,7 @@ Exploring how proteins can dynamically bind to defects:
 This project focused on understanding how proteins interact with biological membranes via packing defects. Using simulations and defect analysis, we mapped membrane regions likely to promote protein binding.
 
 ### Code used:
+Protein interactions with membrane defects:
 <a href="https://github.com/jaybraunjr/PD" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
