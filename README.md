@@ -26,6 +26,10 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
   I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm seeking roles in data science, technical writing, analytics, or as a computational chemist.
 </p>
 
+# Projects and Documents
+Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
+[View full project portfolio](projects)
+
 ## Educational Background
 - Ph.D. in Computational Chemistry from the University of Utah 
 - B.S. in Chemistry from Northern Arizona University
@@ -37,13 +41,9 @@ I’m a PhD computational chemist by training. My work invovled exploring how pr
 - Scientific Communication: Technical writing, research presentations, data visualization
 - Computational chemsitry: GROMACS, OpenMM, MDAnalysis, CHARMM
 
-# Projects and Documents
-Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
-[View full project portfolio](projects)
-
-## 📫 Contact
+## Contact
 
 - Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/jaybraunjr)  
+- LinkedIn: [Jay Braun](https://linkedin.com/in/jaybraunjr)  
 - GitHub: [@jaybraunjr](https://github.com/jaybraunjr)
 
