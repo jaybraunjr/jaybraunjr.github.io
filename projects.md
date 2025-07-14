@@ -8,7 +8,7 @@ Here are materials from my recent work, showcasing my analytical skills, coding 
 ##  Methods-Based Paper (provisionally accepted to JCTC)
 This project involved creating polarizable forcefield parameters for a lipid (triacylglycerol) and benchmarking them against other forcefields using molecular dynamics simulations.
 
-### Sample Code
+### Code used:
 Code for converting forcefield parameters, using a lightweight GUI:
 <a href="https://github.com/jaybraunjr/gro_to_Drude" target="_blank" style="
   display: inline-block;
@@ -23,7 +23,6 @@ Code for converting forcefield parameters, using a lightweight GUI:
 ">
 🔗 View Code on GitHub
 </a>
-
 Code for flexible analysis used in the paper:
 <a href="https://github.com/jaybraunjr/surface_properties" target="_blank" style="
   display: inline-block;
@@ -46,6 +45,8 @@ Code for flexible analysis used in the paper:
 
 ## Protein Interaction with Membranes
 This project focused on understanding how proteins interact with biological membranes via packing defects. Using simulations and defect analysis, we mapped membrane regions likely to promote protein binding.
+
+### Code used:
 <a href="https://github.com/jaybraunjr/PD" target="_blank" style="
   display: inline-block;
   background-color: #24292e;
@@ -60,6 +61,9 @@ This project focused on understanding how proteins interact with biological memb
 🔗 View Code on GitHub
 </a>
 
+### Manuscript
+<iframe src="mlx_bio.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
 ---
 
 ## Collaborative Paper with Experimentalists
@@ -70,7 +74,7 @@ This project involved working closely with experimental collaborators to generat
 
 ---
 
-## Other Papers
+## Creation and Testing of a Lipid Lorcefield
 
 Additional publications and simulation work related to membrane modeling and lipid systems.
 <iframe src="lc.pdf" width="100%" height="600px" style="border: none;"></iframe>
