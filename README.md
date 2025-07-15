@@ -18,8 +18,7 @@ body {
   </video>
 </div>
 
-
-I’m a PhD computational chemist by training. My work invovled exploring how proteins interact with biological membranes (as seen in the movie above).
+Im a PhD computational chemist by training. My work involved biophysical simulations, exploring how proteins fold and bind to membranes (as seen in the movie above).
 
 <p style="font-size: 0.90rem;">
   I specialize in scientific programming, molecular simulations, and data-driven analysis, with a focus on clear communication. I'm seeking roles in data science, technical writing, analytics, or as a computational chemist.
