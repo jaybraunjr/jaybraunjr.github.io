@@ -76,7 +76,7 @@ This project involved working closely with experimental collaborators to generat
 
 ---
 
-## Creation and Testing of a Lipid Lorcefield
+## Creation and Testing of a Lipid Forcefield
 
 Additional publications and simulation work related to membrane modeling and lipid systems.
 <iframe src="lc.pdf" width="100%" height="600px" style="border: none;"></iframe>
