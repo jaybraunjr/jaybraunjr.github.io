@@ -18,10 +18,9 @@ body {
   </video>
 </div>
 
-I am a PhD computational chemist by training. My work involved biophysical simulations, exploring how proteins fold and bind to membranes.
+I am a PhD computational chemist specializing in biophysical simulations that reveal how proteins fold and bind to membranes.
 
-# Projects and Documents
-Here are some materials from my recent work. This includes published manuscripts, code repositories, and grant proposals.
-[View full project portfolio](projects)
+## Portfolio
 
-
+* [Code Repositories](/code)
+* [Research Papers](/papers)
