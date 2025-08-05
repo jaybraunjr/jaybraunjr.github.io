@@ -1,16 +1,63 @@
-
 ---
-title: Papers
+layout: default
+title: "Papers"
+permalink: /papers/
 ---
 
-## Methods Based Paper (ACS JCTC)
-<iframe src="braun_drude.pdf" width="100%" height="600px" style="border:none;"></iframe>
+# Papers
 
-## Protein Interaction with Membranes (Submitted to Biophysical Journal)
-<iframe src="mlx_bio.pdf" width="100%" height="600px" style="border:none;"></iframe>
+## Methods-Based Paper (ACS JCTC)
+
+<object
+  data="/assets/papers/braun_drude.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
+>
+  <p>
+    Your browser can’t preview PDFs.  
+    <a href="/assets/papers/braun_drude.pdf">Download here</a>.
+  </p>
+</object>
+
+## Protein–Membrane Interactions (Biophysical Journal)
+
+<object
+  data="/assets/papers/mlx_bio.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
+>
+  <p>
+    Your browser can’t preview PDFs.  
+    <a href="/assets/papers/mlx_bio.pdf">Download here</a>.
+  </p>
+</object>
 
 ## Collaborative Paper with Experimentalists (JCB)
-<iframe src="tld1.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
-## Creation and Testing of a Lipid Forcefield (Membranes)
-<iframe src="lc.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<object
+  data="/assets/papers/tld1.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
+>
+  <p>
+    Your browser can’t preview PDFs.  
+    <a href="/assets/papers/tld1.pdf">Download here</a>.
+  </p>
+</object>
+
+## Creation & Testing of a Lipid Force Field (Membranes)
+
+<object
+  data="/assets/papers/lc.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
+>
+  <p>
+    Your browser can’t preview PDFs.  
+    <a href="/assets/papers/lc.pdf">Download here</a>.
+  </p>
+</object>
