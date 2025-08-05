@@ -5,7 +5,7 @@ title: Papers
 ---
 
 ## Methods Based Paper (accepted to JCTC)
-<iframe src="drude.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="braun_drude.pdf" width="100%" height="600px" style="border:none;"></iframe>
 
 ## Protein Interaction with Membranes
 <iframe src="mlx_bio.pdf" width="100%" height="600px" style="border:none;"></iframe>
