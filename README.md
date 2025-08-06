@@ -18,7 +18,7 @@ body {
   </video>
 </div>
 
-I am a PhD computational chemist specializing in biophysical simulations that reveal how proteins fold and bind to membranes.
+I am a PhD computational chemist specializing in biophysical simulations and data anlysis.
 
 ## Portfolio
 
