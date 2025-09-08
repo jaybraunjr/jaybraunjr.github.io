@@ -6,7 +6,7 @@ permalink: /papers/
 
 # Research Papers
 
-Braun, R. J.; Swanson, J. M. J. Progress in Lipid Droplet Simulations: How Polarizability Shapes Triacylglycerol Behavior in Bulk and Interfacial Environments. J. Chem. Theory Comput. 2025, ASAP. https://doi.org/10.1021/acs.jctc.5c00882
+Braun, R. J.; Swanson, J. M. J. Progress in Lipid Droplet Simulations: How Polarizability Shapes Triacylglycerol Behavior in Bulk and Interfacial Environments. J. Chem. Theory Comput. 2025, 21 (16), 8235–8248. https://doi.org/10.1021/acs.jctc.5c00882
 
 Braun, R. J.; Swanson, J. M. J. Mechanistic Insights into the Selective Targeting of MLX to Triacylglycerol-Rich Lipid Droplets. bioRxiv 2025, preprint. https://doi.org/10.1101/2024.07.15.603605 (submitted to Biophysical Journal)
 
