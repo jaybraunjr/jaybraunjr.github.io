@@ -19,12 +19,12 @@ Braun, R. J.; Swanson, J. M. J. Capturing the Liquid-Crystalline Phase Transform
 ## Methods Based Paper (ACS JCTC)
 
 <iframe src="../drude2.pdf" width="100%" height="600px"></iframe>  
-If it does not load, [download it here](../braun_drude.pdf).
+If it does not load, [download it here](../drude2.pdf).
 
 ## Protein Membrane Interactions (Biophysical Journal)
 
 <iframe src="../mlx2.pdf" width="100%" height="600px"></iframe>  
-If it does not load, [download it here](../mlx_bio.pdf).
+If it does not load, [download it here](../mlx2.pdf).
 
 ## Collaborative Paper with Experimentalists (JCB)
 
